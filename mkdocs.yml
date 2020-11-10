@@ -1,0 +1,5 @@
+site_name: How to setup mkdocs
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages: ['lua', 'javascript', 'python']
